@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EssayDemo</string>
+    <string name="btn_sql">安卓直连Mysql</string>
+    <string name="btn_get_data">获取数据</string>
 </resources>
